@@ -1,4 +1,4 @@
-# MIPS32_Single_Cyle_Cpu💻
+# MIPS32 Single Cyle Cpu💻
 This is a single cycle cpu based on MIPS32 with verilog.
 - 36 MIPS instructions achieved
 - assembly testbench dump hex txt in *code.txt*,
